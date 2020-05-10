@@ -1,0 +1,5 @@
+kafka-python==2.0.1
+hbase-python==0.5
+happybase==1.2.0
+protobuf==3.11.0
+kazoo==2.6.0
